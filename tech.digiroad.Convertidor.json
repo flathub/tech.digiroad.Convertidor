@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/GS90/Convertidor",
-                    "tag": "1.2.0",
-                    "commit": "3da6981b1a59a0aad166b5264248bffc6c7ed0e8"
+                    "tag": "1.2.2",
+                    "commit": "6396865f4f9b10e1530b4690a13669a034e26d8d"
                 }
             ]
         }
