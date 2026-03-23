@@ -1,7 +1,7 @@
 {
     "id" : "tech.digiroad.Convertidor",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "49",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "convertidor",
     "finish-args" : [
@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/GS90/Convertidor",
-                    "tag": "1.3.5",
-                    "commit": "e0a4a930ed19ce3479277f1418932eec90022f97"
+                    "tag": "1.4.0",
+                    "commit": "cc2001c50cc87f488286276212bafbaaa7c87a5f"
                 }
             ]
         }
